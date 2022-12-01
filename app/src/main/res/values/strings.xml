@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerFirebase</string>
+    <string name="todo">TODO</string>
+    <string name="ja_tem_conta">Já tem uma conta? <b><font color="#ff3d00">Clique aqui!</font></b></string>
+    <string name="cadastrar_se">Crie uma conta <b><font color="#ff3d00">Clicando aqui!</font></b></string>
+</resources>
